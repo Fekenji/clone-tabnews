@@ -22,7 +22,7 @@ function Home() {
     };
 
     return (
-        <img src="https://clone-tabnews-five-beta.vercel.app/"/>
+        <img href="https://clone-tabnews-five-beta.vercel.app/"/>
     );
 }
 
