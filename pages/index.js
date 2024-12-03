@@ -22,22 +22,7 @@ function Home() {
     };
 
     return (
-        <div style={containerStyle}>
-            <dl>
-                <dt style={titleStyle}>Ex-foodlovers</dt>
-                <dd style={itemStyle}>Cainan</dd>
-                <dd style={itemStyle}>Leonardo Sato</dd>
-                <dd style={itemStyle}>Medina</dd>
-                <dt style={titleStyle}>Futuros ex-foodlovers</dt>
-                <dd style={itemStyle}>Felipe Kenji</dd>
-                <dd style={itemStyle}>Pedro perez</dd>
-                <dt style={titleStyle}>Futuro indefinido</dt>
-                <dd style={itemStyle}>Terada</dd>
-                <dd style={itemStyle}>Rafael Belinelli</dd>
-                <dt style={titleStyle}>Efetivados</dt>
-                <dd style={itemStyle}>Fabrícião</dd>
-            </dl>
-        </div>
+        <img src="https://clone-tabnews-five-beta.vercel.app/"/>
     );
 }
 
