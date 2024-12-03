@@ -22,7 +22,7 @@ function Home() {
     };
 
     return (
-        <img href="https://clone-tabnews-five-beta.vercel.app/"/>
+        <img href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_WY2zAvpUOYoTQCA3JNfChOHhulHNp3yzA&s"/>
     );
 }
 
